@@ -1,6 +1,5 @@
 # WLP4-compiler
 A compiler of WLP4, which is the subset of C that stands for “Waterloo, Language, Plus, Pointers, Plus, Procedures”
-Please contact me via joyce.dai@uwaterloo.ca for source code
 
 ### Implementatoin
 The compiler implements:
